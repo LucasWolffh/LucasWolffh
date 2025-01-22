@@ -2,7 +2,7 @@
 
   ### Olá! eu sou o Lucas Wolff 🐺
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/lucaswolffh](https://www.linkedin.com/in/lucaswolffh)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswolffh)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswolffh)
 
   ![Wolff GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasWolffh&show_icons=true&theme=dracula)
