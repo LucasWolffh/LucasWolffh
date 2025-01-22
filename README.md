@@ -19,7 +19,12 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </div><br>
 
-  Louco por tecnologia e um entusiasta em criar um impacto positivo na vida das pessoas!
 
-  ## Meu email:
-  🔹 lucaswolffhonorato7@gmail.com 
+  ## Sobre mim
+  🤟🏼 Louco por tecnologia e um entusiasta em criar um impacto positivo na vida das pessoas!
+
+  💻 Estudando [Analíse de Desenvolvimento de sistemas na Universidade Cidade Verde - UNICV, Maringá, PR]
+  
+  📧 lucaswolffhonorato7@gmail.com 
+      
+      
