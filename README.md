@@ -1,9 +1,11 @@
 
 
-  ### Olá! eu sou o Lucas Wolff 🐺
+  ### Oi! sou o Lucas Wolff 🐺
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswolffh)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswolffh)
+
+  ## Gráficos
 
   ![Wolff GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasWolffh&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWolffh&layout=compact)
@@ -19,8 +21,8 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </div><br>
 
+## Sobre mim
 
-  ## Sobre mim
   🤟🏼 Louco por tecnologia e um entusiasta em criar um impacto positivo na vida das pessoas!
 
   💻 Estudando [Analíse de Desenvolvimento de sistemas na Universidade Cidade Verde - Maringá, PR] [Desenvolvedor Full Stack do Matheus Fraga (Sujeito Programador)]
