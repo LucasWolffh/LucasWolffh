@@ -23,8 +23,7 @@
   ## Sobre mim
   🤟🏼 Louco por tecnologia e um entusiasta em criar um impacto positivo na vida das pessoas!
 
-  💻 Estudando [Analíse de Desenvolvimento de sistemas na Universidade Cidade Verde - UNICV, Maringá, PR]
+  💻 Estudando [Analíse de Desenvolvimento de sistemas na Universidade Cidade Verde - Maringá, PR] [Desenvolvedor Full Stack do Matheus Fraga (Sujeito Programador)]
   
-  📧 lucaswolffhonorato7@gmail.com 
       
       
