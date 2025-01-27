@@ -1,10 +1,16 @@
 
 
+
+
+
 <div align='center'> 
-  <h1>My name is Lucas Wolff! 👋</h1>
+  
+  ### My name is Lucas Wolff! 👋
+  
   <a href="https://www.instagram.com/lucaswolffh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/lucaswolffh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucaswolffh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
   <a href = "mailto:lucaswolffhonorato7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
   <div align="center">  
@@ -27,4 +33,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
       
-      
+### About me: 
+-  Aspiring Software Engineer 
+-  Interested in full-stack development
+-  Constant Learning
