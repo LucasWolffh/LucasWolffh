@@ -13,9 +13,10 @@
   
 </div>
 
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasWolffh&show_icons=true&count_private=true&hide_border=true&title_color=F2B035&icon_color=F28963&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Wolff github stats" /> 
-  
+  <div align="center"> 
+    
+  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasWolffh&show_icons=true&theme=dracula&bg_color=2D3748&text_color=FFFFFF&title_color=FFFFFF&border_color=2D3748)  ![Lucas Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWolffh&layout=compact&bg_color=2D3748&text_color=FFFFFF&title_color=FFFFFF&border_color=2D3748)
+    
 </div>
 
   ### Main skills:
