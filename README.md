@@ -35,7 +35,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
       
 ### About me:
--  Passionate about making a positive impact on lives
--  Aspiring Software Engineer 
 -  Interested in full-stack development
 -  Constant Learning
